@@ -1,0 +1,29 @@
+{
+  "name": "onstoptyping",
+  "version": "1.0.0",
+  "description": "Fire an event when a user stops typing on an input or textarea.",
+  "main": "index.js",
+  "dependencies": {
+    "onstop": "^1.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sorribas/onstoptyping"
+  },
+  "keywords": [
+    "onstoptyping",
+    "stop",
+    "typing",
+    "writing"
+  ],
+  "author": "Eduardo Sorribas <eduardo@sorribas.org> (http://sorribas.org/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sorribas/onstoptyping/issues"
+  },
+  "homepage": "https://github.com/sorribas/onstoptyping"
+}
